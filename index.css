@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	top: 0%;
+	left: 0%;
+	background-color: black;
+}
+
+#test {
+  display: block;
+	font-family: sans-serif, monospace;
+  top: 2%;
+  left: 5%;
+	width: 100%;
+	height: 3%;
+  text-align: center;
+	color: white;
+	transition: all ease 0.8s;
+}
+
+.wrap {
+	height: 100%;
+  width: 100%;
+	display: flex;
+  flex-flow: row wrap;
+	position: absolute;
+	margin: 0;
+}
+
+.video {
+  position: relative;
+	width: 33%;
+	height: 97%;
+}

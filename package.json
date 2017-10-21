@@ -1,0 +1,18 @@
+{
+  "name": "Periscope-Intime",
+  "ProductName": "PeriIntime",
+  "version": "0.0.1",
+  "description": "Periscope Triptyque",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Niemes",
+  "website": "https://niemes.info",
+  "license": "CC0-1.0",
+  "homepage": "https://niemes.info",
+  "dependencies": {
+    "electron": "^1.7.9",
+    "node-periscope-stream": "^0.1.5",
+    "twit": "^2.2.9"
+  }
+}
