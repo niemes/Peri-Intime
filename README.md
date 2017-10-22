@@ -39,6 +39,7 @@ var T = new Twit({
 npm start
 ```
 
-### Credits :
+### Info :
 
-And feel free to contact me, and look my other works :D. [niemes.info](https://niemes.info)
+And feel free to contact me.
+You can see my other works here : [niemes.info](https://niemes.info)
