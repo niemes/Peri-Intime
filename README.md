@@ -1,10 +1,12 @@
 # Peri-Intime
-A simple Node Periscope Triptique
+A simple Node Periscope Triptique.
 
 ## Dependencies :
 
 - Nodejs
 - electron
+### test :
+Only tested on MacosX.
 
 ## Install
 
