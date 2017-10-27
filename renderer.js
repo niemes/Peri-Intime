@@ -1,6 +1,3 @@
-// This file is required by the index.html file and will
-// be executed in the renderer process for that window.
-// All of the Node.js APIs are available in this process.
 //-----------------------------Dependances NODEJS-------------------------------
 var periscope = require('node-periscope-stream');
 var Twit = require('twit');
@@ -24,7 +21,7 @@ var T = new Twit({
 	access_token_secret: ''
 });
 
-//--------------------------REQUETE TWITTER OBSERVATION TEMP REEL---------------
+//--------------------------REQUETE TWITTER OBSERVATION TEMPS REEL---------------
 //---Choix France / Monde entier.
 var france = false;
 var monde = true;
